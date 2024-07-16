@@ -26,6 +26,11 @@ Problem-Solving: The Owner's Manual fot¿r the Brain, Pierce Howard
 -   Solutions in need of being prioritized.
 
 -   Tools
+      Pareto Charts
+        80/20 Rule
+        Vertical bar graph in which values are plotted in decreasing order of relative frequency from left to right.
+          Shows
+            The most important problems
 
 
 
