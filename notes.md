@@ -25,4 +25,7 @@ Problem-Solving: The Owner's Manual fot¿r the Brain, Pierce Howard
 -   Solutions with uncertain outcomes.
 -   Solutions in need of being prioritized.
 
+-   Tools
+
+
 
